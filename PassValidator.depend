@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1579875632 source:c:\nenad\gluposti\001\c++\pass validator\passvalidator\main.cpp
+	<iostream>
+
+1579865606 source:d:\nenad\gluposti\001\c++\pass validator\passvalidator\main.cpp
+	<iostream>
+
+1625994243 source:d:\nenad\projects\pass validator\passvalidator\main.cpp
+	<iostream>
+	<string.h>
+
+1625994425 source:d:\nenad\projects\passvalidator\main.cpp
+	<iostream>
+	<string.h>
+
